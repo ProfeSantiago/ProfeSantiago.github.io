@@ -4,6 +4,6 @@
 
 - **Skype user:** santiago.rodriguez.paniagua
 
-#### Email:
+#### :phone: Email:
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com

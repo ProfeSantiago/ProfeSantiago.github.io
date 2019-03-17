@@ -1,3 +1,18 @@
+### Repositorios con tutoriales y ejemplos
+
+- [HTML5 & CSS3](https://github.com/ProfeSantiago/HTML5-CSS3)
+- [JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
+
+- [Java](https://github.com/ProfeSantiago/Java)
+- [Ruby](https://github.com/ProfeSantiago/Ruby)
+
+- [JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
+- [JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
+- [JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
+- [JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
+- [JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
+- 
+
 ### Información de Contacto
 
 - **Teléfono Celular:** (506) 8538-6364
@@ -10,4 +25,4 @@
 
 #### Redes Sociales:
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua) 
-- [FaceBook](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)
+- [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)

@@ -7,3 +7,7 @@
 #### Email:
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
+
+#### Redes Sociales:
+- [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua) 
+- [FaceBook](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)

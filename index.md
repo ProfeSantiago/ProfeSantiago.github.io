@@ -15,7 +15,7 @@
 
 ------------
 
-### Revistas:
+### Referencias:
 - [Wired](https://www.wired.com/)
 - [Popular Science](https://www.popsci.com/)
 - [App Developer Magazine](https://appdevelopermagazine.com/)

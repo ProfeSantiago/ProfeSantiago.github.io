@@ -26,7 +26,7 @@
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
 
-#### Redes Sociales:
+#### Búsquenos también en:
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua) 
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)
 - [GitHub](https://github.com/ProfeSantiago)

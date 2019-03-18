@@ -1,6 +1,6 @@
-### .Net Core
+#### .Net Core
 
-**Repositorio con Tutoriales y Ejemplos:** [.NetCore](https://github.com/ProfeSantiago/.NetCore)
+Repositorio con Tutoriales y Ejemplos: [.NetCore](https://github.com/ProfeSantiago/.NetCore)
 
 #### Recursos de aprendisaje:
 - [Microsoft Learning](https://www.microsoft.com/en-us/learning/default.aspx)

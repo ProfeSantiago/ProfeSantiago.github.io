@@ -17,7 +17,7 @@
 
 ------------
 
-**Revistas Científicas o de tecnología:**
+### Revistas Científicas o de tecnología:
 - [Wired](https://www.wired.com/)
 - [Popular Science](https://www.popsci.com/)
 - [App Developer Magazine](https://appdevelopermagazine.com/)

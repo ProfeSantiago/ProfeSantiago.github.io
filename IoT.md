@@ -6,6 +6,6 @@
 - [Arduino Oficial](https://www.arduino.cc)
 - [Simulador de Arduino](https://www.tinkercad.com/circuits)
 
-### Frameworks de JS para IoT:
+### IoT JS Frameworks:
 - [Johnny-Five.js](http://johnny-five.io/)
 - [Clylon.js](https://cylonjs.com/)

@@ -17,6 +17,15 @@
 
 ------------
 
+**Revistas Científicas o de tecnología:**
+- [Wired](https://www.wired.com/)
+- [Popular Science](https://www.popsci.com/)
+- [App Developer Magazine](https://appdevelopermagazine.com/)
+- [Mit Technology Review](https://www.technologyreview.com/)
+- [Popular Mechanics](https://www.popularmechanics.com/)
+
+------------
+
 ### Información de Contacto
 
 - **Teléfono Celular:** (506) 8538-6364
@@ -30,13 +39,3 @@
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua) 
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)
 - [GitHub](https://github.com/ProfeSantiago)
-
-
-------------
-
-**Revistas Científicas o de tecnología:**
-- [Wired](https://www.wired.com/)
-- [Popular Science](https://www.popsci.com/)
-- [App Developer Magazine](https://appdevelopermagazine.com/)
-- [Mit Technology Review](https://www.technologyreview.com/)
-- [Popular Mechanics](https://www.popularmechanics.com/)

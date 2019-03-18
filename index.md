@@ -35,8 +35,8 @@
 ------------
 
 **Revistas Científicas o de tecnología:**
-- https://www.wired.com/
-- https://www.popsci.com/
-- https://appdevelopermagazine.com/
-- https://www.technologyreview.com/
-- https://www.popularmechanics.com/
+- [Wired](https://www.wired.com/)
+- [Popular Science](https://www.popsci.com/)
+- [App Developer Magazine](https://appdevelopermagazine.com/)
+- [Mit Technology Review](https://www.technologyreview.com/)
+- [Popular Mechanics](https://www.popularmechanics.com/)

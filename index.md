@@ -1,4 +1,4 @@
-### Catálogo de Tecnologías
+### Catálogo de Cursos
 
 
 

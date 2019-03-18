@@ -2,7 +2,7 @@
 
 
 
-| Página                  | Descripción                                    | 
+| Tecnología              | Descripción                                    | 
 | ----------------------- | ---------------------------------------------- | 
 | HTML5 & CSS3            | HTML5 & CSS3                                   |
 | JavaScript              | JavaScript, JQuery, Bootstrap, Vue.js, React, React Native, Angular |

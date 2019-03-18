@@ -23,6 +23,7 @@
 - [App Developer Magazine](https://appdevelopermagazine.com/)
 - [Mit Technology Review](https://www.technologyreview.com/)
 - [Popular Mechanics](https://www.popularmechanics.com/)
+- [Springer](https://www.springer.com/la)
 
 ------------
 

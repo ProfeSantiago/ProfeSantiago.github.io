@@ -8,6 +8,9 @@
 - [Ruby](https://github.com/ProfeSantiago/Ruby)
 - [PHP & Frameworks](https://github.com/ProfeSantiago/PHP)
 - [Sistemas Operativos & T.I.](https://github.com/ProfeSantiago/TI-OS)
+- [Internet of Things](https://github.com/ProfeSantiago/IoT)
+- [Swift](https://github.com/ProfeSantiago/Swift-iOS)
+- [Android](https://github.com/ProfeSantiago/Android-Java)
 
 ### Información de Contacto
 

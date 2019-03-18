@@ -1,7 +1,4 @@
-### Catálogo de Cursos
-
-
-
+### Catálogo:
 | Tecnología              | Descripción                                    | 
 | ----------------------- | ---------------------------------------------- | 
 | [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS) | HTML5 & CSS3 |
@@ -17,7 +14,7 @@
 
 ------------
 
-### Revistas Científicas o de tecnología:
+### Revistas:
 - [Wired](https://www.wired.com/)
 - [Popular Science](https://www.popsci.com/)
 - [App Developer Magazine](https://appdevelopermagazine.com/)
@@ -27,8 +24,7 @@
 
 ------------
 
-### Información de Contacto
-
+### Contacto:
 - **Teléfono Celular:** (506) 8538-6364
 - **Skype user:** santiago.rodriguez.paniagua
 

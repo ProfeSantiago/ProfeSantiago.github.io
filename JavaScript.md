@@ -6,5 +6,5 @@
 
 **Recursos de aprendisaje:**
 - [W3Schools](https://www.w3schools.com/)
-- [Udeny](https://www.udemy.com/)
+- [Udemy](https://www.udemy.com/)
  

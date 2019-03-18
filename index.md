@@ -31,6 +31,9 @@
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)
 - [GitHub](https://github.com/ProfeSantiago)
 
+
+------------
+
 **Revistas Científicas o de tecnología:**
 - https://www.wired.com/
 - https://www.popsci.com/

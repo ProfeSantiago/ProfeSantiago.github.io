@@ -13,6 +13,7 @@
 | Ruby                    | Ruby, Ruby on Rails                            |
 | Android                 | SQLite, FireBase                               |
 | Swift                   | SQLite, FireBase                               |
+| IoT                     | Arduino                                        |
 
 ### Contactenos:
 - [Contacto](Contactenos.md)

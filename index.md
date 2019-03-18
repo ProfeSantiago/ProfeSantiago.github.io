@@ -15,7 +15,7 @@
 | Swift                   | SQLite, FireBase                               |
 | IoT                     | Arduino                                        |
 
----
+------------
 
 ### Información de Contacto
 

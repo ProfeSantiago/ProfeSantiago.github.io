@@ -5,11 +5,11 @@
 | Tecnología              | Descripción                                    | 
 | ----------------------- | ---------------------------------------------- | 
 | [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS) | HTML5 & CSS3 |
-| [JavaScript](https://profesantiago.github.io/JavaScript)| JavaScript, JQuery, Bootstrap, Vue.js, React, React Native, Angular |
+| [JavaScript](https://profesantiago.github.io/JavaScript)| JQuery, Bootstrap, Vue.js, React, React Native, Angular |
 | [.Net Core](https://profesantiago.github.io/NetCore)| MVC, API, Linq, Entity Framework |
-| [Java](https://profesantiago.github.io/Java)    | JSP, Serlets, Spring Framework |
-| [PHP](https://profesantiago.github.io/PHP)      | PHP & Laravel          |
-| [Python(https://profesantiago.github.io/Python) | Python, Django, Flask  |
+| [Java](https://profesantiago.github.io/Java)        | JSP, Serlets, Spring Framework |
+| [PHP](https://profesantiago.github.io/PHP)          | PHP & Laravel          |
+| [Python](https://profesantiago.github.io/Python)    | Python, Django, Flask  |
 | Ruby                    | Ruby, Ruby on Rails                            |
 | Android                 | SQLite, FireBase                               |
 | Swift                   | SQLite, FireBase                               |
@@ -29,4 +29,5 @@
 #### Redes Sociales:
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua) 
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)
+- [GitHub](https://github.com/ProfeSantiago)
 

@@ -6,4 +6,18 @@
 **Recursos de aprendisaje:**
 - [W3Schools](https://www.w3schools.com/)
 - [Udeny](https://www.udemy.com/)
+
+**Links de algunos Editores de Texto:**
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Sublime](https://www.sublimetext.com/)
+- [Brackets](http://brackets.io/)
+- [Atom](https://atom.io/)
+- [Notepad++](https://notepad-plus-plus.org/)
+
+**Links de algunos Cloud IDEs:**
+- [Paiza](https://paiza.io/es)
+- [Stackblitz](https://stackblitz.com/)
+- [Goorm](https://www.goorm.io/)
+- [Slappforge](https://slappforge.com/)
+
  

@@ -14,18 +14,4 @@
 - [Atom](https://atom.io/)
 - [Notepad++](https://notepad-plus-plus.org/)
 
-**Code Playgrounds:**
-- [Codepen](https://codepen.io/)
-- [codesandbox](https://codesandbox.io)
-- [JSfiddle](https://jsfiddle.net/)
-
-**Cloud IDEs:**
-- [Codenvy](https://codenvy.io)
-- [Cloud9](https://c9.io)
-- [Codeanywhere](https://codeanywhere.com/)
-- [Paiza](https://paiza.io/es)
-- [Stackblitz](https://stackblitz.com/)
-- [Goorm](https://www.goorm.io/)
-- [Slappforge](https://slappforge.com/)
-
  

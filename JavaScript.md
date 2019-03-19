@@ -9,7 +9,7 @@
 
 **Code Playgrounds:**
 - [Codepen](https://codepen.io/)
-- [codesandbox](https://codesandbox.io)
+- [Codesandbox](https://codesandbox.io)
 - [JSfiddle](https://jsfiddle.net/)
 
 **Cloud IDEs:**

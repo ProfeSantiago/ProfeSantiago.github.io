@@ -4,8 +4,8 @@
 [Home](https://profesantiago.github.io) \ [Repositorio de JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
 
 **Recursos de aprendisaje:**
-- [W3Schools](https://www.w3schools.com/)
-- [Udemy](https://www.udemy.com/)
+- [W3Schools](https://www.w3schools.com/){:target="_blank"}
+- [Udeny](https://www.udemy.com/){:target="_blank"}
 
 **Code Playgrounds:**
 - [Codepen](https://codepen.io/){:target="_blank"}

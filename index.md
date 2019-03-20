@@ -12,6 +12,8 @@
 | [Android](https://profesantiago.github.io/Android)  | SQLite, FireBase       |
 | [Swift](https://profesantiago.github.io/Swift)      | SQLite, FireBase       |
 | [IoT](https://profesantiago.github.io/IoT)          | Arduino                |
+| [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
+
 
 ------------
 ------------

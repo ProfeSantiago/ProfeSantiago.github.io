@@ -16,12 +16,12 @@
 ------------
 
 ### Referencias:
-- [Wired](https://www.wired.com/)
-- [Popular Science](https://www.popsci.com/)
-- [App Developer Magazine](https://appdevelopermagazine.com/)
-- [Mit Technology Review](https://www.technologyreview.com/)
-- [Popular Mechanics](https://www.popularmechanics.com/)
-- [Springer](https://www.springer.com/la)
+- [Wired](https://www.wired.com/){:target="_blank"}
+- [Popular Science](https://www.popsci.com/){:target="_blank"}
+- [App Developer Magazine](https://appdevelopermagazine.com/){:target="_blank"}
+- [Mit Technology Review](https://www.technologyreview.com/){:target="_blank"}
+- [Popular Mechanics](https://www.popularmechanics.com/){:target="_blank"}
+- [Springer](https://www.springer.com/la){:target="_blank"}
 
 ------------
 
@@ -34,6 +34,6 @@
 - rodriguez.paniagua.santiago@gmail.com
 
 #### Búsquenos también en:
-- [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua) 
-- [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/)
+- [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua){:target="_blank"}
+- [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/){:target="_blank"}
 - [GitHub](https://github.com/ProfeSantiago)

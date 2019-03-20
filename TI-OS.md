@@ -3,7 +3,7 @@
 
 [Home](https://profesantiago.github.io) \ [Repositorio de Sistemas Operativos & T.I.](https://github.com/ProfeSantiago/TI-OS)
 
-**USB Booteable*:*
+**Crear USB Booteable*:**
 - [Linuxliveusb](http://www.linuxliveusb.com/en/home){:target="_blank"}
 - [Unetbootin](https://unetbootin.github.io/){:target="_blank"}
 - [Rufus](https://rufus.ie/){:target="_blank"}

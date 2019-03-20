@@ -16,7 +16,6 @@
 
 
 ------------
-------------
 
 ### Referencias:
 - [Xataka](https://www.xataka.com/){:target="_blank"}
@@ -31,7 +30,6 @@
 - [Popular Mechanics](https://www.popularmechanics.com/){:target="_blank"}
 - [Springer](https://www.springer.com/la){:target="_blank"}
 
-------------
 ------------
 
 ### Contacto:

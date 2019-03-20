@@ -12,6 +12,8 @@
 - [Codesandbox](https://codesandbox.io){:target="_blank"}
 - [JSfiddle](https://jsfiddle.net/){:target="_blank"}
 - [Stackblitz](https://stackblitz.com/){:target="_blank"}
+- [repl.it](https://repl.it/languages){:target="_blank"}
+- [jsbin](https://jsbin.com/){:target="_blank"}
 
 **Cloud IDEs:**
 - [Codenvy](https://codenvy.io/){:target="_blank"}

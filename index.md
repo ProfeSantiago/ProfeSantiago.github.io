@@ -14,8 +14,12 @@
 | [IoT](https://profesantiago.github.io/IoT)          | Arduino                |
 
 ------------
+------------
 
 ### Referencias:
+- [PC Magazine](https://www.pcmag.com/){:target="_blank"}
+- [PC World](https://www.pcworld.com/){:target="_blank"}
+- [dev.to](https://dev.to/){:target="_blank"}
 - [Wired](https://www.wired.com/){:target="_blank"}
 - [Popular Science](https://www.popsci.com/){:target="_blank"}
 - [App Developer Magazine](https://appdevelopermagazine.com/){:target="_blank"}
@@ -23,6 +27,7 @@
 - [Popular Mechanics](https://www.popularmechanics.com/){:target="_blank"}
 - [Springer](https://www.springer.com/la){:target="_blank"}
 
+------------
 ------------
 
 ### Contacto:

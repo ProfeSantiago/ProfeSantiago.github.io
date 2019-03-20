@@ -5,5 +5,5 @@
 
 
 **Recursos para Linux:**
-- [Linux Mag](http://www.linux-mag.com/)
-- [Linux Magazine](http://www.linux-magazine.com/)
+- [Linux Mag](http://www.linux-mag.com/){:target="_blank"}
+- [Linux Magazine](http://www.linux-magazine.com/){:target="_blank"}

@@ -8,17 +8,17 @@
 - [Udemy](https://www.udemy.com/)
 
 **Code Playgrounds:**
-- [Codepen](https://codepen.io/)
-- [Codesandbox](https://codesandbox.io)
-- [JSfiddle](https://jsfiddle.net/)
+- [Codepen](https://codepen.io/){:target="_blank"}
+- [Codesandbox](https://codesandbox.io){:target="_blank"}
+- [JSfiddle](https://jsfiddle.net/){:target="_blank"}
+- [Stackblitz](https://stackblitz.com/){:target="_blank"}
 
 **Cloud IDEs:**
-- [Codenvy](https://codenvy.io)
-- [Cloud9](https://c9.io)
-- [Codeanywhere](https://codeanywhere.com/)
-- [Paiza](https://paiza.io/es)
-- [Stackblitz](https://stackblitz.com/)
-- [Goorm](https://www.goorm.io/)
-- [Slappforge](https://slappforge.com/)
+- [Codenvy](https://codenvy.io/){:target="_blank"}
+- [Cloud9](https://c9.io){:target="_blank"}
+- [Codeanywhere](https://codeanywhere.com/){:target="_blank"}
+- [Paiza](https://paiza.io/es){:target="_blank"}
+- [Goorm](https://www.goorm.io/){:target="_blank"}
+- [Slappforge](https://slappforge.com/){:target="_blank"}
 
  

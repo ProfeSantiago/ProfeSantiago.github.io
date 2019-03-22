@@ -3,7 +3,7 @@
 
 [Home](https://profesantiago.github.io) \ [Repositorio de JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
 
-**Recursos de aprendisaje:**
+**Recursos de aprendizaje:**
 - [W3Schools](https://www.w3schools.com/){:target="_blank"}
 - [Udeny](https://www.udemy.com/){:target="_blank"}
 

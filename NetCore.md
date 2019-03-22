@@ -9,3 +9,6 @@
 - [MSDN](https://msdn.microsoft.com/en-us/dn308572.aspx){:target="_blank"}
 - [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/){:target="_blank"}
 
+#### Links importantes para .Net:
+- [Hosting .Net Core](https://www.smarterasp.net/index){:target="_blank"}
+- [.Net PaaS](https://appharbor.com/){:target="_blank"}

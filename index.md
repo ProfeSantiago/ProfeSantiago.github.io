@@ -22,6 +22,8 @@
 - [Slant.co](https://www.slant.co/){:target="_blank"}
 - [PC Magazine](https://www.pcmag.com/){:target="_blank"}
 - [PC World](https://www.pcworld.com/){:target="_blank"}
+- [Cnet](https://www.cnet.com/es/){:target="_blank"}
+- [Hipertextual](https://hipertextual.com/){:target="_blank"}
 - [Dev.to](https://dev.to/){:target="_blank"}
 - [Wired](https://www.wired.com/){:target="_blank"}
 - [Popular Science](https://www.popsci.com/){:target="_blank"}

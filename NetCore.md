@@ -10,5 +10,6 @@
 - [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/){:target="_blank"}
 
 #### Links importantes para .Net:
-- [Hosting .Net Core](https://www.smarterasp.net/index){:target="_blank"}
-- [.Net PaaS](https://appharbor.com/){:target="_blank"}
+- [Smarterasp (Hosting .Net Core)](https://www.smarterasp.net/index){:target="_blank"}
+- [appharbor (.Net PaaS)](https://appharbor.com/){:target="_blank"}
+- [10 Diferencias entre .NET Core y .NET Framework](https://www.campusmvp.es/recursos/post/10-diferencias-entre-net-core-y-net-framework.aspx?fbclid=IwAR133CX-3Vd45ahPsK1Ww5h1fy5jWITbVckDBZ5NFanc-qHLexqh3RkFezc/){:target="_blank"}

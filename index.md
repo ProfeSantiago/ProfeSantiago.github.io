@@ -25,6 +25,10 @@
 - [Cnet](https://www.cnet.com/es/){:target="_blank"}
 - [Hipertextual](https://hipertextual.com/){:target="_blank"}
 - [Dev.to](https://dev.to/){:target="_blank"}
+- [Digitaltrends](https://es.digitaltrends.com/){:target="_blank"}
+- [Tekcrispy](https://www.tekcrispy.com/){:target="_blank"}
+
+### Revistas Científicas:
 - [Wired](https://www.wired.com/){:target="_blank"}
 - [Popular Science](https://www.popsci.com/){:target="_blank"}
 - [App Developer Magazine](https://appdevelopermagazine.com/){:target="_blank"}

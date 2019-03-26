@@ -20,8 +20,9 @@
 **Recursos para Linux:**
 - [Comandos DOS & Linux](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Step_by_Step_Guide/ap-doslinux.html){:target="_blank"}
 
-**Directory Servers**
+**LDAP (Directory Servers)**
 - [ApacheDS](http://directory.apache.org/apacheds/downloads.html){:target="_blank"}
+- [Openldap](http://www.openldap.org/){:target="_blank"}
 
 ### Revisiones de Software:
 - [Cnet](https://www.cnet.com/topics/software/products){:target="_blank"}
@@ -31,3 +32,4 @@
 - [Hipertextual](https://hipertextual.com/software){:target="_blank"}
 - [Toptenreviews](http://www.toptenreviews.com/software/){:target="_blank"}
 - [Opensource Applications](https://opensource.com/resources/projects-and-applications){:target="_blank"}
+- [Techradar Open Source Software](https://www.techradar.com/news/the-best-open-source-software

@@ -16,17 +16,24 @@
 
 
 ------------
-
-### Referencias:
-- [Xataka](https://www.xataka.com/){:target="_blank"}
+### Revisiones de Software:
+- [Cnet](https://www.cnet.com/topics/software/products){:target="_blank"}
 - [Slant.co](https://www.slant.co/){:target="_blank"}
-- [PC Magazine](https://www.pcmag.com/){:target="_blank"}
-- [PC World](https://www.pcworld.com/){:target="_blank"}
-- [Cnet](https://www.cnet.com/es/){:target="_blank"}
-- [Hipertextual](https://hipertextual.com/){:target="_blank"}
+- [PC Magazine](https://www.pcmag.com/reviews/software){:target="_blank"}
+- [PC World](https://www.pcworld.com/category/software/){:target="_blank"}
+- [Hipertextual](https://hipertextual.com/software){:target="_blank"}
+
+### Revistas de Desarrollo:
 - [Dev.to](https://dev.to/){:target="_blank"}
+- [Opensourceforu](https://opensourceforu.com/category/type-of-audiences/developers/){:target="_blank"}
+- [Xataka Inteligencia Artificial](https://www.xataka.com/categoria/inteligencia-artificial){:target="_blank"}
+
+### Revistas Tecnológicas:
+- [Cnet](https://www.cnet.com/es/){:target="_blank"}
+
 - [Digitaltrends](https://es.digitaltrends.com/){:target="_blank"}
 - [Tekcrispy](https://www.tekcrispy.com/){:target="_blank"}
+
 
 ### Revistas Científicas:
 - [Wired](https://www.wired.com/){:target="_blank"}
@@ -46,7 +53,7 @@
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
 
-#### Búsquenos también en:
+#### Sígame también en:
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua){:target="_blank"}
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/){:target="_blank"}
 - [GitHub](https://github.com/ProfeSantiago)

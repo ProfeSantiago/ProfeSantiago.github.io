@@ -20,7 +20,7 @@
 **Recursos para Linux & Windows:**
 - [Comandos DOS & Linux](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Step_by_Step_Guide/ap-doslinux.html){:target="_blank"}
 - [Run Commands Windows 7 & 8](https://www.symantec.com/connect/articles/list-run-commands-windows-7-and-8){:target="_blank"}
-- [Run Commands 2018](http://www.auditiait.es/en/list-of-commands-msc/){:target="_blank"}
+- [Run *.msc Commands](http://www.auditiait.es/en/list-of-commands-msc/){:target="_blank"}
 
 ------------
 **LDAP & Active Directory (Directory Servers)**

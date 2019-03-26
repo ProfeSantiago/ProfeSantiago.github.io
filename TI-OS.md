@@ -32,4 +32,8 @@
 - [Hipertextual](https://hipertextual.com/software){:target="_blank"}
 - [Toptenreviews](http://www.toptenreviews.com/software/){:target="_blank"}
 - [Opensource Applications](https://opensource.com/resources/projects-and-applications){:target="_blank"}
-- [Techradar Open Source Software](https://www.techradar.com/news/the-best-open-source-software
+- [Techradar Open Source Software](https://www.techradar.com/news/the-best-open-source-software){:target="_blank"}
+
+### Descargas de Software (usen los gratis, no hay que piratear):
+- [Filehippo](https://filehippo.com/es/){:target="_blank"}
+- [Fileeagle](https://www.fileeagle.com/){:target="_blank"}

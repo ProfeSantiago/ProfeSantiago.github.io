@@ -13,3 +13,10 @@
 - [Linux Mag](http://www.linux-mag.com/){:target="_blank"}
 - [Linux Magazine](http://www.linux-magazine.com/){:target="_blank"}
 - [Distrowatch](https://distrowatch.com/?language=ES){:target="_blank"}
+- [Opensource.com/linux](https://opensource.com/tags/linux){:target="_blank"}
+
+**Recursos para Linux:**
+- [Comandos DOS & Linux](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Step_by_Step_Guide/ap-doslinux.html){:target="_blank"}
+
+**Directory Server**
+- [ApacheDS](http://directory.apache.org/apacheds/downloads.html){:target="_blank"}

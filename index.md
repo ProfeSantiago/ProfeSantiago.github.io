@@ -16,12 +16,6 @@
 
 
 ------------
-### Revisiones de Software:
-- [Cnet](https://www.cnet.com/topics/software/products){:target="_blank"}
-- [Slant.co](https://www.slant.co/){:target="_blank"}
-- [PC Magazine](https://www.pcmag.com/reviews/software){:target="_blank"}
-- [PC World](https://www.pcworld.com/category/software/){:target="_blank"}
-- [Hipertextual](https://hipertextual.com/software){:target="_blank"}
 
 ### Revistas de Desarrollo:
 - [Dev.to](https://dev.to/){:target="_blank"}
@@ -30,10 +24,8 @@
 
 ### Revistas Tecnológicas:
 - [Cnet](https://www.cnet.com/es/){:target="_blank"}
-
 - [Digitaltrends](https://es.digitaltrends.com/){:target="_blank"}
 - [Tekcrispy](https://www.tekcrispy.com/){:target="_blank"}
-
 
 ### Revistas Científicas:
 - [Wired](https://www.wired.com/){:target="_blank"}

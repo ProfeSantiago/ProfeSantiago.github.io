@@ -26,7 +26,7 @@
 **LDAP & Active Directory (Directory Servers)**
 - [ApacheDS](http://directory.apache.org/apacheds/downloads.html){:target="_blank"}
 - [Openldap](http://www.openldap.org/){:target="_blank"}
-- [Openldap](https://blogs.technet.microsoft.com/canitpro/2017/02/22/step-by-step-setting-up-active-directory-in-windows-server-2016/){:target="_blank"}
+- [Active Directory](https://blogs.technet.microsoft.com/canitpro/2017/02/22/step-by-step-setting-up-active-directory-in-windows-server-2016/){:target="_blank"}
 ------------
 ### Revisiones de Software:
 - [Cnet](https://www.cnet.com/topics/software/products){:target="_blank"}

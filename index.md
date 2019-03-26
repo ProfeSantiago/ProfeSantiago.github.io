@@ -14,19 +14,20 @@
 | [IoT](https://profesantiago.github.io/IoT)          | Arduino                |
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
-
 ------------
-
 ### Revistas de Desarrollo:
 - [Dev.to](https://dev.to/){:target="_blank"}
 - [Opensourceforu](https://opensourceforu.com/category/type-of-audiences/developers/){:target="_blank"}
 - [Xataka Inteligencia Artificial](https://www.xataka.com/categoria/inteligencia-artificial){:target="_blank"}
+- [Opensource Programming](https://opensource.com/tags/programming){:target="_blank"}
 
+------------
 ### Revistas Tecnológicas:
 - [Cnet](https://www.cnet.com/es/){:target="_blank"}
 - [Digitaltrends](https://es.digitaltrends.com/){:target="_blank"}
 - [Tekcrispy](https://www.tekcrispy.com/){:target="_blank"}
 
+------------
 ### Revistas Científicas:
 - [Wired](https://www.wired.com/){:target="_blank"}
 - [Popular Science](https://www.popsci.com/){:target="_blank"}
@@ -36,7 +37,6 @@
 - [Springer](https://www.springer.com/la){:target="_blank"}
 
 ------------
-
 ### Contacto:
 - **Teléfono Celular:** (506) 8538-6364
 - **Skype user:** santiago.rodriguez.paniagua

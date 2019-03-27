@@ -23,6 +23,12 @@
 - [Run *.msc Commands](http://www.auditiait.es/en/list-of-commands-msc/){:target="_blank"}
 
 ------------
+**Scripting:**
+- [VBScript Tutorials](https://www.softwaretestinghelp.com/vbscript-tutorial-1/){:target="_blank"}
+- [VBScript & Outlook Forms](https://docs.microsoft.com/en-us/office/vba/outlook/how-to/using-visual-basic-to-customize-outlook-forms/using-visual-basic-scripting-edition){:target="_blank"}
+- [VBScript Archives](https://devblogs.microsoft.com/scripting/tag/vbscript/){:target="_blank"}
+
+------------
 **LDAP & Active Directory (Directory Servers)**
 - [ApacheDS](http://directory.apache.org/apacheds/downloads.html){:target="_blank"}
 - [Openldap](http://www.openldap.org/){:target="_blank"}

@@ -20,6 +20,7 @@
 - [Opensourceforu](https://opensourceforu.com/category/type-of-audiences/developers/){:target="_blank"}
 - [Xataka Inteligencia Artificial](https://www.xataka.com/categoria/inteligencia-artificial){:target="_blank"}
 - [Opensource Programming](https://opensource.com/tags/programming){:target="_blank"}
+- [Software Gurú](https://sg.com.mx/){:target="_blank"}
 
 ------------
 ### Revistas Tecnológicas:

@@ -21,6 +21,7 @@
 - [Xataka Inteligencia Artificial](https://www.xataka.com/categoria/inteligencia-artificial){:target="_blank"}
 - [Opensource Programming](https://opensource.com/tags/programming){:target="_blank"}
 - [Software Gurú](https://sg.com.mx/){:target="_blank"}
+- [Codeburst](https://codeburst.io/){:target="_blank"}
 
 ------------
 ### Revistas Tecnológicas:

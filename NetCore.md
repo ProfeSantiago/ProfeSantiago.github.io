@@ -2,6 +2,8 @@
 
 [Home](https://profesantiago.github.io) \ [Repositorio de .NetCore](https://github.com/ProfeSantiago/dotNetCore)
 
+**Nota:** Antes de empezar con ASP.Net Core, se recomienda revisar la página y el repositorio de [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+
 #### Recursos de aprendizaje:
 - [Microsoft Learning](https://www.microsoft.com/en-us/learning/default.aspx){:target="_blank"}
 - [Microsoft Docs Learn](https://docs.microsoft.com/en-us/learn/){:target="_blank"}

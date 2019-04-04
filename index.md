@@ -15,7 +15,7 @@
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
 ------------
-### Revistas de Desarrollo:
+### Sitios de Desarrollo:
 - [Dev.to](https://dev.to/){:target="_blank"}
 - [Opensourceforu](https://opensourceforu.com/category/type-of-audiences/developers/){:target="_blank"}
 - [Xataka Inteligencia Artificial](https://www.xataka.com/categoria/inteligencia-artificial){:target="_blank"}

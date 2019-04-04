@@ -3,6 +3,8 @@
 
 [Home](https://profesantiago.github.io) \ [Repositorio de JavaScript & Frameworks](https://github.com/ProfeSantiago/JavaScript)
 
+**Nota:** Antes de empesar con JavaScript y cualquiera de sus liberías y Frameworks, se recomienda revisar la página y repositorios de: [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+
 **Recursos de aprendizaje:**
 - [W3Schools](https://www.w3schools.com/){:target="_blank"}
 - [Udemy](https://www.udemy.com/){:target="_blank"}

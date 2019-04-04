@@ -22,6 +22,7 @@
 - [Opensource Programming](https://opensource.com/tags/programming){:target="_blank"}
 - [Software Gurú](https://sg.com.mx/){:target="_blank"}
 - [Codeburst](https://codeburst.io/){:target="_blank"}
+- [Itnext](https://itnext.io){:target="_blank"}
 
 ------------
 ### Revistas Tecnológicas:

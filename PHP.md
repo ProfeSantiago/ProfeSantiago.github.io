@@ -2,6 +2,8 @@
 
 [Home](https://profesantiago.github.io) \ [Repositorio de PHP & Frameworks](https://github.com/ProfeSantiago/PHP)
 
+**Nota:** Antes de empesar con PHP y/o cualquiera de sus Frameworks, se recomienda revisar la página y repositorio de [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+
 #### Algunos hosting gratis para PHP:
 
 - [1freehosting](http://www.1freehosting.com/){:target="_blank"}

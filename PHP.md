@@ -4,7 +4,7 @@
 
 **Nota:** Antes de empezar con PHP y/o cualquiera de sus Frameworks, se recomienda revisar la página y el repositorio de [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
 
-#### Algunos hosting gratis para PHP:
+#### Algunos hosting gratis para PHP y MySQL:
 
 - [1freehosting](http://www.1freehosting.com/){:target="_blank"}
 - [freehostingnoads](http://freehostingnoads.net/){:target="_blank"}

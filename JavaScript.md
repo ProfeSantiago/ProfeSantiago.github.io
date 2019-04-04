@@ -25,4 +25,10 @@
 - [Goorm](https://www.goorm.io/){:target="_blank"}
 - [Slappforge](https://slappforge.com/){:target="_blank"}
 
- 
+#### Algunos hosting gratis para HTML5, CSS3, JavaScript, PHP y MySQL:
+
+- [1freehosting](http://www.1freehosting.com/){:target="_blank"}
+- [freehostingnoads](http://freehostingnoads.net/){:target="_blank"}
+- [000webhost](https://www.000webhost.com/){:target="_blank"}
+- [biz](https://www.biz.nf/){:target="_blank"}
+- [infinityfree](https://infinityfree.net/){:target="_blank"}

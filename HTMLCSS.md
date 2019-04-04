@@ -8,6 +8,9 @@
 - [Udemy](https://www.udemy.com/){:target="_blank"}
 - [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web){:target="_blank"}
 
+**Code Playgrounds:**
+- [jsbin](https://jsbin.com/){:target="_blank"}
+
 **Editores de Texto:**
 - [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"}
 - [Sublime](https://www.sublimetext.com/){:target="_blank"}

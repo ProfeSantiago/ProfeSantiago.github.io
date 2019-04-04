@@ -11,7 +11,6 @@
 - [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web){:target="_blank"}
 
 **Code Playgrounds:**
-- [jsbin](https://jsbin.com/){:target="_blank"}
 - [Codepen](https://codepen.io/){:target="_blank"}
 - [Codesandbox](https://codesandbox.io){:target="_blank"}
 - [JSfiddle](https://jsfiddle.net/){:target="_blank"}

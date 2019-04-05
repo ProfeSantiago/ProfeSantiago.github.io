@@ -49,6 +49,8 @@
 - [Techradar Open Source Software](https://www.techradar.com/news/the-best-open-source-software){:target="_blank"}
 
 ------------
-### Descargas de Software (usen los gratis, no hay que piratear):
+### Descargas de Software 
+**(usen los gratis, no hay que piratear)**
 - [Filehippo](https://filehippo.com/es/){:target="_blank"}
 - [Fileeagle](https://www.fileeagle.com/){:target="_blank"}
+- [Sync Server 4 Linux](https://www.seafile.com/en/download/){:target="_blank"}

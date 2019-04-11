@@ -14,6 +14,18 @@
 | [IoT](https://profesantiago.github.io/IoT)          | Arduino                |
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           <p>...insert content left side...</p>
+       </div>
+    </div>
+    <div class="col-1-2">
+       <div class="content">
+           <p>...insert content right side...</p>
+       </div>
+    </div>
+</div>
 ------------
 ### Sitios de Desarrollo:
 - [Dev.to](https://dev.to/){:target="_blank"}

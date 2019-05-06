@@ -5,6 +5,7 @@
 ### Links Importantes:
 - [Arduino Oficial](https://www.arduino.cc){:target="_blank"}
 - [Simulador de Arduino](https://www.tinkercad.com/circuits){:target="_blank"}
+- [Intel IoT Learning Portal](https://iotworkshop.intel.com/){:target="_blank"}
 
 ### IoT JS Frameworks:
 - [Johnny-Five.js](http://johnny-five.io/){:target="_blank"}

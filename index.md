@@ -3,7 +3,8 @@
 | Tecnología              | Descripción                                    | 
 | ----------------------- | ---------------------------------------------- | 
 | [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS) | HTML5 & CSS3 |
-| [JavaScript](https://profesantiago.github.io/JavaScript)| JQuery, Bootstrap, Vue.js, React, React Native, Angular |
+| [JavaScript](https://profesantiago.github.io/JavaScript)| JQuery, Bootstrap, Vue.js, React Native, Angular |
+| [React js](https://profesantiago.github.io/ReactJS)| Librería React.js |
 | [.Net Core](https://profesantiago.github.io/NetCore)| MVC, API, Linq, Entity Framework |
 | [Java](https://profesantiago.github.io/CursoJava)   | JDBC, JSP, Servlets, Spring Framework     |
 | [PHP](https://profesantiago.github.io/PHP)          | PHP & Laravel          |

@@ -26,8 +26,8 @@
 
 ------------
 ### Email:
-:envelope: santiago.rodriguez.paniagua@hotmail.com
-:envelope: rodriguez.paniagua.santiago@gmail.com
+- :envelope: santiago.rodriguez.paniagua@hotmail.com
+- :envelope: rodriguez.paniagua.santiago@gmail.com
 
 ------------
  ### Social:

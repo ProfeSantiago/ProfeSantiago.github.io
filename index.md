@@ -16,16 +16,16 @@
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
 
-### Blog :star: :
+### Blog:
 - [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 
 ------------
-###  Contacto :phone: :
+###  Contacto:
 - **Teléfono Celular:** (506) 8538-6364
 - **Skype user:** santiago.rodriguez.paniagua
 
 ------------
-### Email :envelope: :
+### Email:
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
 

@@ -17,14 +17,14 @@
 
 
 ### Blog:
-- :star: [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
+:star: [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 
 ------------
-### Contacto:
+:phone:### Contacto:
 - **Teléfono Celular:** (506) 8538-6364
 - **Skype user:** santiago.rodriguez.paniagua
 
-#### Email:
+:envelope:#### Email:
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
 

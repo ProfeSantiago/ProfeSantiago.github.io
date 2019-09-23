@@ -16,7 +16,7 @@
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
 
-:star: ### Blog:
+### :star: Blog:
 - [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 
 ------------

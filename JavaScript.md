@@ -5,11 +5,6 @@
 
 **Nota:** Antes de empezar con JavaScript y/o cualquiera de sus liberías y Frameworks, se recomienda revisar la página y el repositorio de [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
 
-**Recursos de aprendizaje:**
-- [W3Schools](https://www.w3schools.com/){:target="_blank"}
-- [Udemy](https://www.udemy.com/){:target="_blank"}
-- [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web){:target="_blank"}
-
 **Code Playgrounds:**
 - [Codepen](https://codepen.io/){:target="_blank"}
 - [Codesandbox](https://codesandbox.io){:target="_blank"}
@@ -24,10 +19,3 @@
 - [Paiza](https://paiza.io/es){:target="_blank"}
 - [Goorm](https://www.goorm.io/){:target="_blank"}
 - [Slappforge](https://slappforge.com/){:target="_blank"}
-
-#### Algunos hosting gratis para HTML5, CSS3, JavaScript, PHP y MySQL:
-- [1freehosting](http://www.1freehosting.com/){:target="_blank"}
-- [freehostingnoads](http://freehostingnoads.net/){:target="_blank"}
-- [000webhost](https://www.000webhost.com/){:target="_blank"}
-- [biz](https://www.biz.nf/){:target="_blank"}
-- [infinityfree](https://infinityfree.net/){:target="_blank"}

@@ -1,4 +1,4 @@
-### Catálogo de Cursos:
+### Cursos:
 
 | Tecnología              | Descripción                                    | 
 | ----------------------- | ---------------------------------------------- | 
@@ -29,7 +29,7 @@
 - rodriguez.paniagua.santiago@gmail.com
 
 ------------
-#### Social:
+### Social:
 - [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua){:target="_blank"}
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/){:target="_blank"}

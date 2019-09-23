@@ -21,8 +21,8 @@
 
 ------------
 ###  Contacto:
-:phone: **Teléfono Celular:** (506) 8538-6364
-:computer: **Skype user:** santiago.rodriguez.paniagua
+- :phone: **Teléfono Celular:** (506) 8538-6364
+- :computer: **Skype user:** santiago.rodriguez.paniagua
 
 ------------
 ### Email:

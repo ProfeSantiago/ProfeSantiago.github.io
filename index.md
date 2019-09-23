@@ -1,4 +1,4 @@
-### :blue_book: Cursos:
+### Cursos:
 
 | Tecnología              | Descripción                                    | 
 | ----------------------- | ---------------------------------------------- | 
@@ -16,21 +16,21 @@
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
 
-### :star: Blog:
-- [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
+### Blog:
+:star: [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 
 ------------
-### :phone: Contacto:
-- **Teléfono Celular:** (506) 8538-6364
-- **Skype user:** santiago.rodriguez.paniagua
+###  Contacto:
+:phone: **Teléfono Celular:** (506) 8538-6364
+:computer: **Skype user:** santiago.rodriguez.paniagua
 
 ------------
-### :envelope: Email:
-- santiago.rodriguez.paniagua@hotmail.com
-- rodriguez.paniagua.santiago@gmail.com
+### Email:
+:envelope: santiago.rodriguez.paniagua@hotmail.com
+:envelope: rodriguez.paniagua.santiago@gmail.com
 
 ------------
- ### :family: Social:
+ ### Social:
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua){:target="_blank"}
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/){:target="_blank"}
 - [GitHub](https://github.com/ProfeSantiago)

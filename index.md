@@ -15,6 +15,10 @@
 | [IoT](https://profesantiago.github.io/IoT)          | Arduino                |
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
+
+#### Actualicese con recursos y noticias:
+- [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
+
 ------------
 ### Contacto:
 - **Teléfono Celular:** (506) 8538-6364

@@ -16,7 +16,7 @@
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
 
-#### Actualicese con recursos y noticias:
+### Blog:
 - [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 
 ------------
@@ -28,7 +28,8 @@
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
 
-#### Sígame también en:
+------------
+#### Social:
 - [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua){:target="_blank"}
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/){:target="_blank"}

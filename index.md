@@ -1,4 +1,4 @@
-### Cursos:
+### :blue_book: Cursos:
 
 | Tecnología              | Descripción                                    | 
 | ----------------------- | ---------------------------------------------- | 
@@ -24,13 +24,13 @@
 - **Teléfono Celular:** (506) 8538-6364
 - **Skype user:** santiago.rodriguez.paniagua
 
-#### :envelope: Email:
+------------
+### :envelope: Email:
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
 
 ------------
  ### :family: Social:
-- [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 - [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua){:target="_blank"}
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/){:target="_blank"}
 - [GitHub](https://github.com/ProfeSantiago)

@@ -17,7 +17,7 @@
 
 
 ### Blog:
-- [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
+- :star: [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"}
 
 ------------
 ### Contacto:

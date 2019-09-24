@@ -18,7 +18,7 @@
 
 #### Otros recursos de aprendizaje:
 - [Blog del Profe Santiago](https://elprofesantiago.blogspot.com/){:target="_blank"} 
-- [Presentaciones del Profe Santiago](https://es.slideshare.net/santiagorodriguezpaniagua){:target="_blank"} 
+- [Presentaciones en SlideShare](https://es.slideshare.net/santiagorodriguezpaniagua){:target="_blank"} 
 
 ------------
 ####  Contacto:

@@ -31,6 +31,6 @@
 
 ------------
 #### Social: 
-- [FaceBook](https://www.facebook.com/santiago.rodriguez.paniagua){:target="_blank"}
+- [FaceBook](https://www.facebook.com/elProfeSantiago){:target="_blank"}
 - [Linkedin](https://www.linkedin.com/in/santiago-rodriguez-paniagua/){:target="_blank"}
 - [GitHub](https://github.com/ProfeSantiago)

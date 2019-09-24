@@ -16,8 +16,9 @@
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
 
-#### Blog:
-- [Blog del Profe](https://elprofesantiago.blogspot.com/){:target="_blank"} 
+#### Otros recursos de aprendizaje:
+- [Blog del Profe Santiago](https://elprofesantiago.blogspot.com/){:target="_blank"} 
+- [Presentaciones del Profe Santiago](https://es.slideshare.net/santiagorodriguezpaniagua){:target="_blank"} 
 
 ------------
 ####  Contacto:
@@ -25,7 +26,7 @@
 - **Skype user:** santiago.rodriguez.paniagua
 
 ------------
-#### Email:
+#### email:
 - santiago.rodriguez.paniagua@hotmail.com
 - rodriguez.paniagua.santiago@gmail.com
 

@@ -29,7 +29,7 @@
 * Web Apis.
 
 #### Lección #7:
-* ASP.Net.
+* ASP.Net (con Razor).
 
 #### Lección #8:
 * MVC Framework. 

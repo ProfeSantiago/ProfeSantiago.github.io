@@ -18,6 +18,26 @@ Lección #3:
 Lección #4 (Opcional):
 * Estructuras de Datos.
 
+Lección #5 (Opcional):
+* Linq.
+
+Lección #6:
+* Acceso a Bases de Datos con C#.
+
+Lección #6:
+* Applicaciones de N Capas.
+* Web Apis.
+
+Lección #7:
+* ASP.Net.
+
+Lección #8:
+* MVC Framework.
+
+Lección #9:
+* Entity Framework.
+
+
 <hr/>
 
 

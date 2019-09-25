@@ -1,4 +1,4 @@
-#### .Net Framework & .Net Core Framework
+#### C# (.Net Framework & .Net Core Framework)
 
 [Home](https://profesantiago.github.io) \ [Repositorio de .NetCore](https://github.com/ProfeSantiago/dotNetCore)
 

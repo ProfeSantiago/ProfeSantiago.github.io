@@ -33,6 +33,8 @@
 
 #### Lección #8:
 * MVC Framework. 
+* MVC con Entity Framework.
+* MVC con Linq.
 
 #### Lección #9 (Opcional):
 * Entity Framework.

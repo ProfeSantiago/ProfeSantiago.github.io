@@ -1,6 +1,8 @@
 #### C# (.Net Framework & .Net Core Framework)
 
-[Home](https://profesantiago.github.io) \ [Ir al Repositorio para descargar la materia del curso de .NetCore aquí](https://github.com/ProfeSantiago/dotNetCore) 
+[<- Volver al Inicio](https://profesantiago.github.io) 
+
+#### [Ir al Repositorio para descargar la materia del curso de .NetCore aquí](https://github.com/ProfeSantiago/dotNetCore) 
 
 #### Plan del Curso:
 

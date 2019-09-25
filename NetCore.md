@@ -31,7 +31,7 @@ Lección #6:
 Lección #7:
 * ASP.Net.
 
-:star: Lección #8:
+Lección #8:
 * MVC Framework. 
 
 Lección #9 (Opcional):

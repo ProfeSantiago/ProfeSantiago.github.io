@@ -1,15 +1,30 @@
-#### .Net Core
+#### .Net Framework & .Net Core Framework
 
 [Home](https://profesantiago.github.io) \ [Repositorio de .NetCore](https://github.com/ProfeSantiago/dotNetCore)
 
-**Nota:** Antes de empezar con ASP.Net Core, se recomienda revisar la página y el repositorio de [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+#### Plan del Curso:
+
+Lección #1:
+* Entrada & Salida.
+* Variables & Tipos de Datos.
+* Estructuras Condicionales.
+
+Lección #2:
+* Cíclos & Arreglos.
+
+Lección #3:
+* Objetos, Clases y Métodos.
+
+
+
+
 
 #### Recursos de aprendizaje:
 - [Microsoft Learning](https://www.microsoft.com/en-us/learning/default.aspx){:target="_blank"}
 - [Microsoft Docs Learn](https://docs.microsoft.com/en-us/learn/){:target="_blank"}
 - [Channel9](https://channel9.msdn.com){:target="_blank"}
 - [MSDN](https://msdn.microsoft.com/en-us/dn308572.aspx){:target="_blank"}
-- [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/){:target="_blank"}
+- [MSDN Magazine](https://tmsdn.microsoft.com/en-us/magazine/){:target="_blank"}
 
 #### Links importantes para .Net:
 - [Smarterasp (Hosting .Net Core)](https://www.smarterasp.net/index){:target="_blank"}

@@ -4,37 +4,37 @@
 
 #### Plan del Curso:
 
-Lección #1:
+#### Lección #1:
 * Entrada & Salida.
 * Variables & Tipos de Datos.
 * Estructuras Condicionales.
 
-Lección #2:
+#### Lección #2:
 * Cíclos & Arreglos.
 
-Lección #3:
+#### Lección #3:
 * Objetos, Clases y Métodos.
 
-Lección #4 (Opcional):
+#### Lección #4 (Opcional):
 * Estructuras de Datos.
 
-Lección #5 (Opcional):
+#### Lección #5 (Opcional):
 * Linq.
 
-Lección #6:
+#### Lección #6:
 * Acceso a Bases de Datos con C#.
 
-Lección #6:
+#### Lección #6:
 * Applicaciones de N Capas.
 * Web Apis.
 
-Lección #7:
+#### Lección #7:
 * ASP.Net.
 
-Lección #8:
+#### Lección #8:
 * MVC Framework. 
 
-Lección #9 (Opcional):
+#### Lección #9 (Opcional):
 * Entity Framework.
 
 

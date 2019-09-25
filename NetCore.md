@@ -32,9 +32,9 @@ Lección #7:
 * ASP.Net.
 
 Lección #8:
-* MVC Framework.
+* MVC Framework. :star:
 
-Lección #9:
+Lección #9 (Opcional):
 * Entity Framework.
 
 
@@ -47,6 +47,10 @@ Lección #9:
 - [Channel9](https://channel9.msdn.com){:target="_blank"}
 - [MSDN](https://msdn.microsoft.com/en-us/dn308572.aspx){:target="_blank"}
 - [MSDN Magazine](https://tmsdn.microsoft.com/en-us/magazine/){:target="_blank"}
+
+
+<hr/>
+
 
 #### Links importantes para .Net:
 - [Smarterasp (Hosting .Net Core)](https://www.smarterasp.net/index){:target="_blank"}

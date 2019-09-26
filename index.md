@@ -1,4 +1,3 @@
-<hr/>
 
 #### Nota:
 Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.

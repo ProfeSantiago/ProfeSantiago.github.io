@@ -14,8 +14,8 @@ Para ver un pequeño tutorial de GitHub en SlideShare, dar click [aquí](https:/
 | [JavaScript y Frameworks](https://profesantiago.github.io/JavaScript)| JQuery, Bootstrap, Apache Cordova, Vue.js, Angular |
 | [React.js](https://profesantiago.github.io/React)       | Librerías JavaScript: React.js & React Native |
 | [C#.(Net Core)](https://profesantiago.github.io/NetCore)    | C#, ASP.Net, Razor, MVC, Web API, Linq, Entity Framework |
-| [Java y Frameworks](https://profesantiago.github.io/CursoJava)       | JDBC, JSP, Servlets, Spring Framework     |
-| [PHP y Frameworks](https://profesantiago.github.io/PHP)              | PHP, Laravel y otros Frameworks        |
+| [Java y Frameworks](https://profesantiago.github.io/CursoJava)       | JDBC, JSP, Servlets, Spring Framework y Hibernate.    |
+| [PHP y Frameworks](https://profesantiago.github.io/PHP)              | PHP y Laravel.        |
 | [Python y Frameworks](https://profesantiago.github.io/Python)        | Python, Django y Flask.  |
 | [Ruby](https://profesantiago.github.io/Ruby)            | Ruby, Ruby on Rails    |
 | [Android ](https://profesantiago.github.io/Android)      | Desarrollo básico de Apps Nativas de Android con Java|

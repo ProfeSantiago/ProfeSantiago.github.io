@@ -5,9 +5,11 @@
 #### Para Ir al Repositorio y descargar la materia del curso de .NetCoredar click [aquí](https://github.com/ProfeSantiago/dotNetCore){:target="_blank"}. 
 
 <hr/>
+
 #### Nota:
 Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
 Para ver un pequeño tutorial de GitHub en SlideShare, dar click [aquí](https://www.slideshare.net/santiagorodriguezpaniagua/git-hub-amp-github-desktop-2019){:target="_blank"}. 
+
 <hr/>
 
 #### Plan del Curso:

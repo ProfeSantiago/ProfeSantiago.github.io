@@ -2,7 +2,7 @@
 
 [<- Volver al Inicio](https://profesantiago.github.io) 
 
-#### Para Ir al Repositorio y descargar la materia del curso de .NetCoredar click [aquí](https://github.com/ProfeSantiago/dotNetCore){:target="_blank"}. 
+#### Para Ir al Repositorio y descargar la materia del curso de C# (.Net Core) dar click [aquí](https://github.com/ProfeSantiago/dotNetCore){:target="_blank"}. 
 
 <hr/>
 

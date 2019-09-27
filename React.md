@@ -15,7 +15,7 @@ Antes de empezar con React.js se recomienda revisar los siguientes cursos:
 
 - [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
 
-- [JavaScritp](https://profesantiago.github.io/JavaScript)
+- [JavaScript](https://profesantiago.github.io/JavaScript)
 
 
 <hr/>

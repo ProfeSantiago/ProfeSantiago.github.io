@@ -42,12 +42,9 @@ Antes de empezar con React.js se recomienda revisar los siguientes cursos:
 * Consumir Web Apis.
 
 #### Lección #7:
-* Consumir Web Apis.
-
-#### Lección #8:
 * Conexión con Google FireBase.
 
-#### Lección #9:
+#### Lección #8:
 * Redux.
 
 <hr/>

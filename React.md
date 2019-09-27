@@ -17,6 +17,39 @@ Antes de empezar con React.js se recomienda revisar los siguientes cursos:
 
 - [JavaScritp](https://profesantiago.github.io/JavaScript)
 
+
+<hr/>
+
+#### Plan del Curso:
+
+#### Lección #1:
+* Entrada y Salida.
+* JSX.
+
+#### Lección #2:
+* Manejo básico de Interfaz.
+
+#### Lección #3:
+* Introducción a los Componentes.
+
+#### Lección #4:
+* Manejo avanzado de Componentes.
+
+#### Lección #5:
+* Manejo avanzado de Interfaz.
+
+#### Lección #6:
+* Consumir Web Apis.
+
+#### Lección #7:
+* Consumir Web Apis.
+
+#### Lección #8:
+* Conexión con Google FireBase.
+
+#### Lección #9:
+* Redux.
+
 <hr/>
 
 **Code Playgrounds:**

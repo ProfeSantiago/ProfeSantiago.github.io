@@ -1,5 +1,5 @@
 
-### Curso Básico de React
+#### Curso Básico de React
 
 [<- Volver al Inicio](https://profesantiago.github.io) 
 

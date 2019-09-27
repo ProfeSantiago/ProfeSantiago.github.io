@@ -1,9 +1,23 @@
 
 ### Curso Básico de React
 
-[Home](https://profesantiago.github.io) \ [Repositorio de React js](https://github.com/ProfeSantiago/ReactJS)
+[<- Volver al Inicio](https://profesantiago.github.io) 
 
-**Nota:** Antes de empezar con JavaScript y/o cualquiera de sus liberías y Frameworks, se recomienda revisar la página y el repositorio de [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+#### Para Ir al Repositorio y descargar la materia de React.js y React Native dar click [aquí](https://github.com/ProfeSantiago/ReactJS){:target="_blank"}. 
+
+<hr/>
+
+#### Notas:
+- Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
+Para ver un pequeño tutorial de GitHub en SlideShare, dar click [aquí](https://www.slideshare.net/santiagorodriguezpaniagua/git-hub-amp-github-desktop-2019){:target="_blank"}. 
+
+Antes de empezar con React.js se recomienda revisar las siguientes páginas:
+
+-[HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+
+-[JavaScritp](https://profesantiago.github.io/JavaScript)
+
+<hr/>
 
 **Code Playgrounds:**
 - [Codepen](https://codepen.io/){:target="_blank"}

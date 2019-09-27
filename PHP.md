@@ -2,7 +2,13 @@
 
 [Home](https://profesantiago.github.io) \ [Repositorio de PHP & Frameworks](https://github.com/ProfeSantiago/PHP)
 
-**Nota:** Antes de empezar con PHP y/o cualquiera de sus Frameworks, se recomienda revisar la página y el repositorio de [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+**Nota:** Antes de empezar con PHP y/o cualquiera de sus Frameworks,se recomienda revisar los siguientes cursos:
+
+- [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+
+- [JavaScritp](https://profesantiago.github.io/JavaScript)
+
+<hr/>
 
 #### Algunos hosting gratis para HTML5, CSS3, JavaScript, PHP y MySQL:
 - [1freehosting](http://www.1freehosting.com/){:target="_blank"}

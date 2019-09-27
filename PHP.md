@@ -2,7 +2,7 @@
 
 [Home](https://profesantiago.github.io) \ [Repositorio de PHP & Frameworks](https://github.com/ProfeSantiago/PHP)
 
-**Nota:** Antes de empezar con PHP y/o cualquiera de sus Frameworks,se recomienda revisar los siguientes cursos:
+**Nota:** Antes de empezar con PHP y/o cualquiera de sus Frameworks, se recomienda revisar los siguientes cursos:
 
 - [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
 

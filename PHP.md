@@ -7,14 +7,14 @@
 <hr/>
 
 #### Notas:
--Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
+- Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
 Para ver un pequeño tutorial de GitHub en SlideShare, dar click [aquí](https://www.slideshare.net/santiagorodriguezpaniagua/git-hub-amp-github-desktop-2019){:target="_blank"}. 
 
--Antes de empezar con PHP y/o cualquiera de sus Frameworks, se recomienda revisar los siguientes cursos:
+- Antes de empezar con PHP y/o cualquiera de sus Frameworks, se recomienda revisar los siguientes cursos:
 
-- [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
+  - [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
 
-- [JavaScritp](https://profesantiago.github.io/JavaScript)
+  - [JavaScritp](https://profesantiago.github.io/JavaScript)
 
 <hr/>
 

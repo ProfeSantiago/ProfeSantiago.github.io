@@ -17,13 +17,6 @@
 | [IoT](https://profesantiago.github.io/IoT)              | Arduino, sensores, etc.                |
 | [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
 
-<hr/>
-
-#### Nota:
-Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
-Para ver un pequeño tutorial de GitHub en SlideShare, dar click [aquí](https://www.slideshare.net/santiagorodriguezpaniagua/git-hub-amp-github-desktop-2019){:target="_blank"}. 
-<hr/>
-
 #### Otros recursos de aprendizaje:
 - [Blog del Profe Santiago](https://elprofesantiago.blogspot.com/){:target="_blank"} 
 - [Presentaciones en SlideShare](https://es.slideshare.net/santiagorodriguezpaniagua){:target="_blank"} 

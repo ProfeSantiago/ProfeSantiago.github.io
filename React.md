@@ -8,13 +8,12 @@
 <hr/>
 
 #### Notas:
-Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
+1) Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
 Para ver un pequeño tutorial de GitHub en SlideShare, dar click [aquí](https://www.slideshare.net/santiagorodriguezpaniagua/git-hub-amp-github-desktop-2019){:target="_blank"}. 
 
-Antes de empezar con React.js se recomienda revisar los siguientes cursos:
 
+2) Antes de empezar con React.js se recomienda revisar los siguientes cursos:
 - [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS)
-
 - [JavaScript](https://profesantiago.github.io/JavaScript)
 
 

@@ -3,7 +3,7 @@
 
 [<- Volver al Inicio](https://profesantiago.github.io) 
 
-#### [Para Ir al Repositorio y descargar la materia de React.js y React Native dar click aquí](https://github.com/ProfeSantiago/ReactJS){:target="_blank"}. 
+#### Para Ir al Repositorio y descargar la materia de React.js y React Native dar click -> [aquí](https://github.com/ProfeSantiago/ReactJS){:target="_blank"}. 
 
 <hr/>
 

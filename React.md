@@ -3,13 +3,13 @@
 
 [<- Volver al Inicio](https://profesantiago.github.io) 
 
-#### Para Ir al Repositorio y descargar la materia de React.js y React Native dar click [aquí](https://github.com/ProfeSantiago/ReactJS){:target="_blank"}. 
+#### [Para Ir al Repositorio y descargar la materia de React.js y React Native dar click aquí](https://github.com/ProfeSantiago/ReactJS){:target="_blank"}. 
 
 <hr/>
 
 #### Notas:
 1) Se necesita un conocimiento mínimo de GitHub para poder descargar la materia y los ejemplos.
-Para ver un pequeño tutorial de GitHub en SlideShare, dar click [aquí](https://www.slideshare.net/santiagorodriguezpaniagua/git-hub-amp-github-desktop-2019){:target="_blank"}. 
+[Para ver un pequeño tutorial de GitHub en SlideShare, dar click aquí](https://www.slideshare.net/santiagorodriguezpaniagua/git-hub-amp-github-desktop-2019){:target="_blank"}. 
 
 
 2) Antes de empezar con React.js se recomienda revisar los siguientes cursos:

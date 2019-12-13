@@ -21,30 +21,45 @@
 
 #### Plan del Curso:
 
-#### Lección #1:
-* Entrada y Salida.
+#### Lección #1: Manejo básico de Interfaz.
+* ReactDOM.render.
+* createElement.
 * JSX.
+* Entrada y Salida.
 
-#### Lección #2:
-* Manejo básico de Interfaz.
+#### Lección #2: Componentes React
+* Componentes Funcionales.
+* Class Components.
+* Componentes Simples.
+* States & Props y Eventos.
 
-#### Lección #3:
-* Introducción a los Componentes.
+#### Lección #3: Manejo Intermedio de Interfaz.
+* Botones y Eventos.
+* Formularios.
+* Validaciones.
+* Imágenes.
 
-#### Lección #4:
-* Manejo avanzado de Componentes.
+#### Lección #4: Consumir Web Apis.
+* Ajax de JQuery.
+* Fetch de JavaScript.
 
-#### Lección #5:
-* Manejo avanzado de Interfaz.
+#### Lección #5: React Hooks.
+* useState.
+* useEffect.
+* useContext.
+* useRef.
+* useReducer.
 
-#### Lección #6:
-* Consumir Web Apis.
+#### Lección #6: Conexión con Google FireBase.
+* Introducción a Bases de datos NoSQL. 
+* Instalación y Configuración de Firebase con NPM.
+* Firebase con JavaScript.
 
-#### Lección #7:
-* Conexión con Google FireBase.
 
-#### Lección #8:
-* Redux.
+#### Lección #8: Redux.
+* Instalación y Configuración de Redux con NPM.
+* States.
+* Introducción Básica a Redux.
 
 <hr/>
 

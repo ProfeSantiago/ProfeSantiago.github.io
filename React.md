@@ -27,17 +27,18 @@
 * JSX.
 * Entrada y Salida.
 
-  =>[(Presentación de la Lección #1 en SlideShare)](https://www.slideshare.net/santiagorodriguezpaniagua/introduccion-a-react)
+  =>[(Presentación de la Lección #1 en SlideShare)](https://www.slideshare.net/santiagorodriguezpaniagua/introduccion-a-react){:target="_blank"}
 
 #### Lección #2: Componentes React
 * Componentes Funcionales.
 * Class Components.
 * Componentes Simples.
-* States & Props y Eventos.
+* Props.
 
-  =>[(Presentación de la Lección #2 en SlideShare)](https://es.slideshare.net/santiagorodriguezpaniagua/componentes-react)
+  =>[(Presentación de la Lección #2 en SlideShare)](https://es.slideshare.net/santiagorodriguezpaniagua/componentes-react){:target="_blank"}
 
-#### Lección #3: Manejo Intermedio de Interfaz.
+#### Lección #3: Manejo Intermedio de Componentes & Interfaz.
+* Props, States y Eventos.
 * Botones y Eventos.
 * Formularios.
 * Validaciones.

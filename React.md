@@ -27,7 +27,7 @@ Para ver un pequeño tutorial de GitHub en SlideShare, dar click => [aquí](http
 * JSX.
 * Entrada y Salida.
 
-  =>[Presentación de la Lección #1 en SlideShare](https://www.slideshare.net/santiagorodriguezpaniagua/introduccion-a-react){:target="_blank"}
+  => [Presentación de la Lección #1 en SlideShare](https://www.slideshare.net/santiagorodriguezpaniagua/introduccion-a-react){:target="_blank"}
 
 #### Lección #2: Componentes React
 * Componentes Funcionales.
@@ -35,7 +35,7 @@ Para ver un pequeño tutorial de GitHub en SlideShare, dar click => [aquí](http
 * Componentes Simples.
 * Props.
 
-  =>[Presentación de la Lección #2 en SlideShare](https://es.slideshare.net/santiagorodriguezpaniagua/componentes-react){:target="_blank"}
+  => [Presentación de la Lección #2 en SlideShare](https://es.slideshare.net/santiagorodriguezpaniagua/componentes-react){:target="_blank"}
 
 #### Lección #3: Manejo Intermedio de Componentes & Interfaz.
 * Props, States y Eventos.

@@ -68,14 +68,14 @@ Para ver un pequeño tutorial de GitHub en SlideShare, dar click => [aquí](http
 
 <hr/>
 
-**Code Playgrounds:**
+**Code Playgrounds (Para probar React online):**
 - [Codepen](https://codepen.io/){:target="_blank"}
 - [Codesandbox](https://codesandbox.io){:target="_blank"}
 - [JSfiddle](https://jsfiddle.net/){:target="_blank"}
 - [Stackblitz](https://stackblitz.com/){:target="_blank"}
 - [repl.it](https://repl.it/languages){:target="_blank"}
 
-**Cloud IDEs:**
+**Cloud IDEs (Para desarrollar proyectos Web online):**
 - [Codenvy](https://codenvy.io/){:target="_blank"}
 - [Cloud9](https://c9.io){:target="_blank"}
 - [Codeanywhere](https://codeanywhere.com/){:target="_blank"}

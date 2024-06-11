@@ -7,7 +7,7 @@
 | [HTML5 & CSS3](https://profesantiago.github.io/HTMLCSS) | HTML5 & CSS3 |
 | [JavaScript y Frameworks](https://profesantiago.github.io/JavaScript)| JQuery, Bootstrap, Apache Cordova, Vue.js, Angular |
 | [React.js](https://profesantiago.github.io/React)       | Librerías JavaScript: React.js & React Native |
-| [C# (.Net Core)](https://profesantiago.github.io/NetCore)    | C#, ASP.Net, Razor, MVC, Web API, Linq, Entity Framework |
+| [C# (.Net 2024)](https://profesantiago.github.io/NetCore)    | C#, ASP.Net, Razor, Blazor, MVC, Web API, Linq, Entity Framework |
 | [Java y Frameworks](https://profesantiago.github.io/CursoJava)       | JDBC, JSP, Servlets, Spring Framework y Hibernate.    |
 | [PHP y Frameworks](https://profesantiago.github.io/PHP)              | PHP y Laravel.        |
 | [Python y Frameworks](https://profesantiago.github.io/Python)        | Python, Django y Flask.  |
@@ -15,7 +15,8 @@
 | [Android ](https://profesantiago.github.io/Android)      | Desarrollo básico de Apps Nativas de Android con Java|
 | [Swift](https://profesantiago.github.io/Swift)          | Desarrollo básico de Apps Nativas de iOS con Swift |
 | [IoT](https://profesantiago.github.io/IoT)              | Arduino, sensores, etc.                |
-| [Sistemas Operativos & TI](https://profesantiago.github.io/TI-OS)| Sistemas Operativos & Tecnologías de Información      |  
+| [DevOps, Security & TI](https://profesantiago.github.io/TI-OS)| DevOps, Security & Tecnologías de Información      |  
+| [Ing. de Software y Auditoría](https://profesantiago.github.io/IngSoftware)| Ingeniería de Software y Auditoría | 
 
 #### Otros recursos de aprendizaje:
 - [Blog del Profe Santiago](https://elprofesantiago.blogspot.com/){:target="_blank"} 
